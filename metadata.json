@@ -1,0 +1,6 @@
+{
+  "name": "DocuConvert - All-in-One PDF & File Converter",
+  "description": "Fast, secure, and modern all-in-one PDF and file conversion platform. Convert, merge, split, compress, protect, and edit documents and images directly with high fidelity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
